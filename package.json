@@ -1,7 +1,7 @@
 {
-  "name": "test",
-  "version": "2.2.3",
-  "description": "test",
+  "name": "youtube-video",
+  "version": "1.0.0",
+  "description": "интеграция видео с youtube",
   "scripts": {
     "start": "gulp"
   },
